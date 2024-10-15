@@ -1,0 +1,53 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Go workspace files
+*.log
+
+# Temporary files created by text editors or the system
+*.swp
+*.swo
+*.DS_Store
+*.sublime-workspace
+*.vscode/
+.idea/
+
+# Go-specific files
+vendor/
+Gopkg.lock
+Gopkg.toml
+*.mod
+*.sum
+
+# Binaries
+bin/
+*.o
+*.a
+*.out
+
+# Coverage files
+*.cov
+coverage.out
+
+
+# Environment files
+.env
+.env.local
+
+
+# Logs
+logs/
+*.log
+log/
+
+# Temporary and Backup files
+tmp/
+*.bak
+*.temp
+*~
